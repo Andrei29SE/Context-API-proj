@@ -1,8 +1,8 @@
 import UserInfo from "./UserInfo"
 
-function User({user}) {
+function User() {
   return (
-    <UserInfo user={user}/>
+    <UserInfo/>
   )
 }
 
